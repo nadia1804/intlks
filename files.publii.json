@@ -1,0 +1,2522 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "03841299165bf660f2c52be074d9b1bf"
+    },
+    {
+        "path": "about",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "about/disclaimer",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/about/disclaimer/index.html",
+        "type": "file",
+        "md5": "a3780a0c43013acc9d433aad526f4323"
+    },
+    {
+        "path": "/about/index.html",
+        "type": "file",
+        "md5": "45628484355d0b77b9bde0465b517fc9"
+    },
+    {
+        "path": "about/kebijakan-privasi",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/about/kebijakan-privasi/index.html",
+        "type": "file",
+        "md5": "6ae857669bcaaf85d918bed271edd6a8"
+    },
+    {
+        "path": "about/syarat-dan-ketentuan",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/about/syarat-dan-ketentuan/index.html",
+        "type": "file",
+        "md5": "b8af11f9fb4c39a33e9cc847086b0829"
+    },
+    {
+        "path": "ads.txt",
+        "type": "file",
+        "md5": "b2d95128ee6d8cde40f44fc7193e7cf1"
+    },
+    {
+        "path": "artikel",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "artikel/5-layanan-status-page-gratis-terbaik",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/artikel/5-layanan-status-page-gratis-terbaik/index.html",
+        "type": "file",
+        "md5": "a9d4945c619d88e83756c8867249e33d"
+    },
+    {
+        "path": "artikel/7-jenis-media-pembelajaran-ppg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/artikel/7-jenis-media-pembelajaran-ppg/index.html",
+        "type": "file",
+        "md5": "3f51dd8055d2785dbbfa3a961aef09c9"
+    },
+    {
+        "path": "artikel/8-script-plug-n-play-agar-website-menjadi-cepat",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/artikel/8-script-plug-n-play-agar-website-menjadi-cepat/index.html",
+        "type": "file",
+        "md5": "9c0f85f96099df4db38a5d321b3a9765"
+    },
+    {
+        "path": "artikel/email-kustom-domain-gratis",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/artikel/email-kustom-domain-gratis/index.html",
+        "type": "file",
+        "md5": "70d9365bd16736a16165ae0e2f95105c"
+    },
+    {
+        "path": "artikel/embed-pinterest",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/artikel/embed-pinterest/index.html",
+        "type": "file",
+        "md5": "c030342145315a44f5a635e08b03e8bc"
+    },
+    {
+        "path": "artikel/filsafat-pancasila-dan-pemikiran-ki-hadjar-dewantara-sebagai-landasan-pendidikan-nasional",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/artikel/filsafat-pancasila-dan-pemikiran-ki-hadjar-dewantara-sebagai-landasan-pendidikan-nasional/index.html",
+        "type": "file",
+        "md5": "0193ba600415f6d18738ec49cb9279a4"
+    },
+    {
+        "path": "artikel/hubungan-nilai-pancasila-dengan-kehidupan-sehari-hari",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/artikel/hubungan-nilai-pancasila-dengan-kehidupan-sehari-hari/index.html",
+        "type": "file",
+        "md5": "a2e304a3010849a3ae70013c27f98ca5"
+    },
+    {
+        "path": "/artikel/index.html",
+        "type": "file",
+        "md5": "377b78a352817051fdbc60b9d22c8346"
+    },
+    {
+        "path": "artikel/juknis-bos-2025",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/artikel/juknis-bos-2025/index.html",
+        "type": "file",
+        "md5": "dfe69c83a3b0febd8b87525b1c73c221"
+    },
+    {
+        "path": "artikel/kode-etik-guru",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/artikel/kode-etik-guru/index.html",
+        "type": "file",
+        "md5": "a9bb59721ed774aee83176f24fa71692"
+    },
+    {
+        "path": "artikel/kode-etik-guru-2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/artikel/kode-etik-guru-2/index.html",
+        "type": "file",
+        "md5": "46b0db7fa8ca19c09c94a243f3b951ac"
+    },
+    {
+        "path": "artikel/kumpulan-pantun-banjar",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/artikel/kumpulan-pantun-banjar/index.html",
+        "type": "file",
+        "md5": "13ba86492c1b2d96dbe8909e055c3b92"
+    },
+    {
+        "path": "artikel/kumpulan-soal-tryout-ppg-2025",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/artikel/kumpulan-soal-tryout-ppg-2025/index.html",
+        "type": "file",
+        "md5": "d626526acae76fb0edf3f68038944559"
+    },
+    {
+        "path": "artikel/makna-urgensi-dan-strategi-pendidikan-nilai",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/artikel/makna-urgensi-dan-strategi-pendidikan-nilai/index.html",
+        "type": "file",
+        "md5": "1a5eefd7810d3eb5cb6ea5052e7f763d"
+    },
+    {
+        "path": "artikel/memahami-pentingnya-experiential-learning",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/artikel/memahami-pentingnya-experiential-learning/index.html",
+        "type": "file",
+        "md5": "4efb53aa6de048b24d616e3748d60dd4"
+    },
+    {
+        "path": "artikel/memahami-school-well-being",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/artikel/memahami-school-well-being/index.html",
+        "type": "file",
+        "md5": "f19536d3437544fe2b8a8a0c856eeb31"
+    },
+    {
+        "path": "artikel/mempercepat-website-dengan-metode-cache",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/artikel/mempercepat-website-dengan-metode-cache/index.html",
+        "type": "file",
+        "md5": "6be07080253d29bda78c315c43983657"
+    },
+    {
+        "path": "artikel/mengenal-provinsi-kalimantan-selatan",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/artikel/mengenal-provinsi-kalimantan-selatan/index.html",
+        "type": "file",
+        "md5": "111745dc9d17c773db797cd639092a5a"
+    },
+    {
+        "path": "artikel/model-pembelajaran",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/artikel/model-pembelajaran/index.html",
+        "type": "file",
+        "md5": "ee8737e063470f337e51529efc2037c0"
+    },
+    {
+        "path": "artikel/page",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "artikel/page/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/artikel/page/2/index.html",
+        "type": "file",
+        "md5": "1947e806d7f2d8a4b7555c867454eb80"
+    },
+    {
+        "path": "artikel/page/3",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/artikel/page/3/index.html",
+        "type": "file",
+        "md5": "3a46be38558757ea3a2589dba486dcea"
+    },
+    {
+        "path": "artikel/pantun-banjar",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/artikel/pantun-banjar/index.html",
+        "type": "file",
+        "md5": "5f8d2afec756ef16e85393a74952895d"
+    },
+    {
+        "path": "artikel/pembagian-asesmen-dalam-ppg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/artikel/pembagian-asesmen-dalam-ppg/index.html",
+        "type": "file",
+        "md5": "3d9c500a72432bf3fa753933635da681"
+    },
+    {
+        "path": "artikel/penjelasan-lkpd-dalam-ppg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/artikel/penjelasan-lkpd-dalam-ppg/index.html",
+        "type": "file",
+        "md5": "365672b68f3d027d74ae9916eff54635"
+    },
+    {
+        "path": "artikel/pentingnya-casel-untuk-pembelajaran",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/artikel/pentingnya-casel-untuk-pembelajaran/index.html",
+        "type": "file",
+        "md5": "424c3f6e674cda5a78ad12f8ed851fe7"
+    },
+    {
+        "path": "artikel/peran-guru-sebagai-teladan",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/artikel/peran-guru-sebagai-teladan/index.html",
+        "type": "file",
+        "md5": "b98a37ad29d1913b3154426576618f68"
+    },
+    {
+        "path": "artikel/perbedaan-tos-privacy-dan-disclaimer",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/artikel/perbedaan-tos-privacy-dan-disclaimer/index.html",
+        "type": "file",
+        "md5": "1a84a6e45fe2a8bd668cad1d87ea7288"
+    },
+    {
+        "path": "artikel/permendikdasmen-no-11-tahun-2025-tentang-pemenuhan-beban-kerja-guru",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/artikel/permendikdasmen-no-11-tahun-2025-tentang-pemenuhan-beban-kerja-guru/index.html",
+        "type": "file",
+        "md5": "9a6f8263ce64194cfcb4eca3ab3094e0"
+    },
+    {
+        "path": "artikel/soal-modul-ppg-2025-casel-collaborative-for-academic-social-and-emotional-learning",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/artikel/soal-modul-ppg-2025-casel-collaborative-for-academic-social-and-emotional-learning/index.html",
+        "type": "file",
+        "md5": "06e6e365d9adf97505d9fb048c52b5cd"
+    },
+    {
+        "path": "artikel/soal-modul-ppg-2025-crt-culturally-responsive-teaching",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/artikel/soal-modul-ppg-2025-crt-culturally-responsive-teaching/index.html",
+        "type": "file",
+        "md5": "c8f801ab4beed68a9628df1f1282ac4e"
+    },
+    {
+        "path": "artikel/soal-modul-ppg-2025-fppn",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/artikel/soal-modul-ppg-2025-fppn/index.html",
+        "type": "file",
+        "md5": "a97d8fe8ba1405daa87ba212fde94505"
+    },
+    {
+        "path": "artikel/soal-modul-ppg-2025-pembelajaran-berdifferensiasi",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/artikel/soal-modul-ppg-2025-pembelajaran-berdifferensiasi/index.html",
+        "type": "file",
+        "md5": "2d5502ab0daf0d947d4ab48e7e8d8bd9"
+    },
+    {
+        "path": "artikel/soal-modul-ppg-2025-pembelajaran-berdifferensiasi-2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/artikel/soal-modul-ppg-2025-pembelajaran-berdifferensiasi-2/index.html",
+        "type": "file",
+        "md5": "83b98fb705f2d179f208f99f74da417c"
+    },
+    {
+        "path": "artikel/soal-modul-ppg-2025-peran-guru-sebagai-teladan",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/artikel/soal-modul-ppg-2025-peran-guru-sebagai-teladan/index.html",
+        "type": "file",
+        "md5": "351c133b8ffd69f9d4d7f83a937358aa"
+    },
+    {
+        "path": "artikel/soal-modul-ppg-2025-ppa-penilaian-pembelajaran-dan-asesmen",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/artikel/soal-modul-ppg-2025-ppa-penilaian-pembelajaran-dan-asesmen/index.html",
+        "type": "file",
+        "md5": "20b29dafa1e76bb542cdc194a580aa35"
+    },
+    {
+        "path": "artikel/soal-modul-ppg-2025-pse-penilaian-sikap-dan-etika",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/artikel/soal-modul-ppg-2025-pse-penilaian-sikap-dan-etika/index.html",
+        "type": "file",
+        "md5": "9758b0363a32d3b2b13a7d1dc8cf272f"
+    },
+    {
+        "path": "artikel/soal-tryout-ppg-2025-kemampuan-pedagogik-dan-manajemen-kelas-part-1",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/artikel/soal-tryout-ppg-2025-kemampuan-pedagogik-dan-manajemen-kelas-part-1/index.html",
+        "type": "file",
+        "md5": "297897b3bdddcfccc02b42697a91ec6b"
+    },
+    {
+        "path": "artikel/soal-tryout-ppg-2025-kemampuan-pedagogik-dan-manajemen-kelas-part-2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/artikel/soal-tryout-ppg-2025-kemampuan-pedagogik-dan-manajemen-kelas-part-2/index.html",
+        "type": "file",
+        "md5": "e3d0c99892437b99f655fb2539833181"
+    },
+    {
+        "path": "artikel/soal-tryout-ppg-2025-kemampuan-pedagogik-dan-manajemen-kelas-part-3",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/artikel/soal-tryout-ppg-2025-kemampuan-pedagogik-dan-manajemen-kelas-part-3/index.html",
+        "type": "file",
+        "md5": "5b9adccf6f87f9b73eeffd306397f7df"
+    },
+    {
+        "path": "artikel/soal-tryout-ppg-2025-kemampuan-pedagogik-dan-manajemen-kelas-part-4",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/artikel/soal-tryout-ppg-2025-kemampuan-pedagogik-dan-manajemen-kelas-part-4/index.html",
+        "type": "file",
+        "md5": "a04cec69ffab86eedde32e6d724bc6a9"
+    },
+    {
+        "path": "artikel/soal-tryout-ppg-2025-sejarah-part-1",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/artikel/soal-tryout-ppg-2025-sejarah-part-1/index.html",
+        "type": "file",
+        "md5": "7640f11d560e0c4bf3a6e79d69e8d55f"
+    },
+    {
+        "path": "artikel/soal-tryout-ppg-2025-sejarah-part-2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/artikel/soal-tryout-ppg-2025-sejarah-part-2/index.html",
+        "type": "file",
+        "md5": "ad381284b8f92183f9324c9eb29393aa"
+    },
+    {
+        "path": "artikel/soal-tryout-ppg-2025-sejarah-part-3",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/artikel/soal-tryout-ppg-2025-sejarah-part-3/index.html",
+        "type": "file",
+        "md5": "61a6e05003623a2a720c898e5a4bff64"
+    },
+    {
+        "path": "artikel/studi-kasus-ppg-2025-dipilih-oleh-sistem",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/artikel/studi-kasus-ppg-2025-dipilih-oleh-sistem/index.html",
+        "type": "file",
+        "md5": "d83278c5ca500a4f02567e1e95408297"
+    },
+    {
+        "path": "artikel/teknik-menggambar-model",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/artikel/teknik-menggambar-model/index.html",
+        "type": "file",
+        "md5": "80db127524a00631bf2bb52f750e26fd"
+    },
+    {
+        "path": "artikel/tp-cp-pkn-kelas-6-semester-1",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/artikel/tp-cp-pkn-kelas-6-semester-1/index.html",
+        "type": "file",
+        "md5": "d19ea0a48b5436361c4ed6c4dafff3e8"
+    },
+    {
+        "path": "artikel/tp-cp-pkn-kelas-6-semester-2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/artikel/tp-cp-pkn-kelas-6-semester-2/index.html",
+        "type": "file",
+        "md5": "9c0cbfa35770ccd2935eb75f14835e20"
+    },
+    {
+        "path": "artikel/tp-cp-pkn-kelas-6-semester-3",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/artikel/tp-cp-pkn-kelas-6-semester-3/index.html",
+        "type": "file",
+        "md5": "d94e80f911ba43dd380c69043b525f2e"
+    },
+    {
+        "path": "artikel/tp-cp-pkn-kelas-6-semester-4",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/artikel/tp-cp-pkn-kelas-6-semester-4/index.html",
+        "type": "file",
+        "md5": "2f40a9b5e9007301483fb1b274cc49f9"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "e5909a88ba1158a79ba2dbf82d6b2d86"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "02826e60c8e393ddf3e98ce0b47abac6"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "b003c9f7b3e48d3e3fba9ab8e81f50a2"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/dynamic/fonts",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/dynamic/fonts/plusjakartasans",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/dynamic/fonts/plusjakartasans/plusjakartasans-italic.woff2",
+        "type": "file",
+        "md5": "34f34d085fb5a0953c6a172db53c1c13"
+    },
+    {
+        "path": "/assets/dynamic/fonts/plusjakartasans/plusjakartasans.woff2",
+        "type": "file",
+        "md5": "52d0343d974fe84edf0bd5221ce5708a"
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "bd19e1795647692f2fe6f2249792391f"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "8680a80b5605dca08d4eef4416e29e9f"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "7c0d2bb7276904b382e80bf2d85e8a96"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "aa1ff23a8df2377a60f48f5b4d433ab5"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "c8df4110c4ebd38fbb95093ee7b4e317"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "9104bf08ebf99bce588d63b86a7f2adb"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "e89b811dffa0e57e85b24adc503cd58b"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "a9dc32b3b32e09a44f79eb3553ba7ca7"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/plugins",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/plugins/lucideIcons",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/plugins/lucideIcons/lucide-sprite.svg",
+        "type": "file",
+        "md5": "d0d0716f1353d2ba6978cc79959b6c84"
+    },
+    {
+        "path": "media/plugins/pagePrefetching",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/plugins/pagePrefetching/quicklink.umd.js",
+        "type": "file",
+        "md5": "9bf2c039e22db3d0962eb567cbe5954d"
+    },
+    {
+        "path": "media/posts",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/10",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/10/asasmen-inteleksi.png",
+        "type": "file",
+        "md5": "58c2cb6d72acdd431eddca0d4b37740a"
+    },
+    {
+        "path": "media/posts/10/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/10/responsive/asasmen-inteleksi-md.webp",
+        "type": "file",
+        "md5": "8cc34a4fc4dd73ff72ec8005c72be6c9"
+    },
+    {
+        "path": "/media/posts/10/responsive/asasmen-inteleksi-sm.webp",
+        "type": "file",
+        "md5": "8cc34a4fc4dd73ff72ec8005c72be6c9"
+    },
+    {
+        "path": "/media/posts/10/responsive/asasmen-inteleksi-xl.webp",
+        "type": "file",
+        "md5": "8cc34a4fc4dd73ff72ec8005c72be6c9"
+    },
+    {
+        "path": "/media/posts/10/responsive/asasmen-inteleksi-xs.webp",
+        "type": "file",
+        "md5": "02c42695c6b442f7747d71f9442d83ae"
+    },
+    {
+        "path": "media/posts/11",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/11/lkpd-inteleksi.png",
+        "type": "file",
+        "md5": "a8b49028db0885bec57d85291301a141"
+    },
+    {
+        "path": "media/posts/11/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/11/responsive/lkpd-inteleksi-md.webp",
+        "type": "file",
+        "md5": "cceb5dcb0f71565cdab007b47ad2f29e"
+    },
+    {
+        "path": "/media/posts/11/responsive/lkpd-inteleksi-sm.webp",
+        "type": "file",
+        "md5": "cceb5dcb0f71565cdab007b47ad2f29e"
+    },
+    {
+        "path": "/media/posts/11/responsive/lkpd-inteleksi-xl.webp",
+        "type": "file",
+        "md5": "cceb5dcb0f71565cdab007b47ad2f29e"
+    },
+    {
+        "path": "/media/posts/11/responsive/lkpd-inteleksi-xs.webp",
+        "type": "file",
+        "md5": "6ed757fb18338f2aeaa4cc7c6e8addbe"
+    },
+    {
+        "path": "media/posts/12",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/12/panduan-PPG-inteleksi-2.png",
+        "type": "file",
+        "md5": "caf0a8daa3d82bbd501ea17868fd3f00"
+    },
+    {
+        "path": "media/posts/12/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/12/responsive/panduan-PPG-inteleksi-2-md.webp",
+        "type": "file",
+        "md5": "8b562eaa755b914fc9c4d6055345b623"
+    },
+    {
+        "path": "/media/posts/12/responsive/panduan-PPG-inteleksi-2-sm.webp",
+        "type": "file",
+        "md5": "8b562eaa755b914fc9c4d6055345b623"
+    },
+    {
+        "path": "/media/posts/12/responsive/panduan-PPG-inteleksi-2-xl.webp",
+        "type": "file",
+        "md5": "8b562eaa755b914fc9c4d6055345b623"
+    },
+    {
+        "path": "/media/posts/12/responsive/panduan-PPG-inteleksi-2-xs.webp",
+        "type": "file",
+        "md5": "4c65a10325383a6dad0332076a652fb8"
+    },
+    {
+        "path": "media/posts/17",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/17/disclaimer-tos-privacy-inteleksi.png",
+        "type": "file",
+        "md5": "727c8012445806d9a8822f1db373ab7c"
+    },
+    {
+        "path": "media/posts/17/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/17/responsive/disclaimer-tos-privacy-inteleksi-md.webp",
+        "type": "file",
+        "md5": "72a48683deb49e43cffd02991e7aef3d"
+    },
+    {
+        "path": "/media/posts/17/responsive/disclaimer-tos-privacy-inteleksi-sm.webp",
+        "type": "file",
+        "md5": "72a48683deb49e43cffd02991e7aef3d"
+    },
+    {
+        "path": "/media/posts/17/responsive/disclaimer-tos-privacy-inteleksi-xl.webp",
+        "type": "file",
+        "md5": "72a48683deb49e43cffd02991e7aef3d"
+    },
+    {
+        "path": "/media/posts/17/responsive/disclaimer-tos-privacy-inteleksi-xs.webp",
+        "type": "file",
+        "md5": "640ac871fb434cd0f188bdcca09268fa"
+    },
+    {
+        "path": "media/posts/18",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/18/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/18/responsive/soal-try-out-ppg-inteleksi-md.webp",
+        "type": "file",
+        "md5": "71a3676f429f79c9ccf66771f9eec2e1"
+    },
+    {
+        "path": "/media/posts/18/responsive/soal-try-out-ppg-inteleksi-sm.webp",
+        "type": "file",
+        "md5": "71a3676f429f79c9ccf66771f9eec2e1"
+    },
+    {
+        "path": "/media/posts/18/responsive/soal-try-out-ppg-inteleksi-xl.webp",
+        "type": "file",
+        "md5": "71a3676f429f79c9ccf66771f9eec2e1"
+    },
+    {
+        "path": "/media/posts/18/responsive/soal-try-out-ppg-inteleksi-xs.webp",
+        "type": "file",
+        "md5": "2613ba9a5592072ca964befa69cb7058"
+    },
+    {
+        "path": "/media/posts/18/soal-try-out-ppg-inteleksi.png",
+        "type": "file",
+        "md5": "5c2bf4eff82c4105833f62a37fc947c6"
+    },
+    {
+        "path": "media/posts/19",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/19/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/19/responsive/soal-try-out-ppg-inteleksi-md.webp",
+        "type": "file",
+        "md5": "71a3676f429f79c9ccf66771f9eec2e1"
+    },
+    {
+        "path": "/media/posts/19/responsive/soal-try-out-ppg-inteleksi-sm.webp",
+        "type": "file",
+        "md5": "71a3676f429f79c9ccf66771f9eec2e1"
+    },
+    {
+        "path": "/media/posts/19/responsive/soal-try-out-ppg-inteleksi-xl.webp",
+        "type": "file",
+        "md5": "71a3676f429f79c9ccf66771f9eec2e1"
+    },
+    {
+        "path": "/media/posts/19/responsive/soal-try-out-ppg-inteleksi-xs.webp",
+        "type": "file",
+        "md5": "2613ba9a5592072ca964befa69cb7058"
+    },
+    {
+        "path": "/media/posts/19/soal-try-out-ppg-inteleksi.png",
+        "type": "file",
+        "md5": "5c2bf4eff82c4105833f62a37fc947c6"
+    },
+    {
+        "path": "media/posts/20",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/20/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/20/responsive/soal-try-out-ppg-inteleksi-md.webp",
+        "type": "file",
+        "md5": "71a3676f429f79c9ccf66771f9eec2e1"
+    },
+    {
+        "path": "/media/posts/20/responsive/soal-try-out-ppg-inteleksi-sm.webp",
+        "type": "file",
+        "md5": "71a3676f429f79c9ccf66771f9eec2e1"
+    },
+    {
+        "path": "/media/posts/20/responsive/soal-try-out-ppg-inteleksi-xl.webp",
+        "type": "file",
+        "md5": "71a3676f429f79c9ccf66771f9eec2e1"
+    },
+    {
+        "path": "/media/posts/20/responsive/soal-try-out-ppg-inteleksi-xs.webp",
+        "type": "file",
+        "md5": "2613ba9a5592072ca964befa69cb7058"
+    },
+    {
+        "path": "/media/posts/20/soal-try-out-ppg-inteleksi.png",
+        "type": "file",
+        "md5": "5c2bf4eff82c4105833f62a37fc947c6"
+    },
+    {
+        "path": "media/posts/21",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/21/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/21/responsive/soal-try-out-ppg-2025-inteleksi-md.webp",
+        "type": "file",
+        "md5": "3aaae5f5f1b9b073c11e8a39b61bf3b7"
+    },
+    {
+        "path": "/media/posts/21/responsive/soal-try-out-ppg-2025-inteleksi-sm.webp",
+        "type": "file",
+        "md5": "3aaae5f5f1b9b073c11e8a39b61bf3b7"
+    },
+    {
+        "path": "/media/posts/21/responsive/soal-try-out-ppg-2025-inteleksi-xl.webp",
+        "type": "file",
+        "md5": "3aaae5f5f1b9b073c11e8a39b61bf3b7"
+    },
+    {
+        "path": "/media/posts/21/responsive/soal-try-out-ppg-2025-inteleksi-xs.webp",
+        "type": "file",
+        "md5": "7b67ba1ef1282d9239c67522aa4ad129"
+    },
+    {
+        "path": "/media/posts/21/soal-try-out-ppg-2025-inteleksi.png",
+        "type": "file",
+        "md5": "17a84b7ad88ab768beef62c8753648eb"
+    },
+    {
+        "path": "media/posts/22",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/22/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/22/responsive/soal-try-out-ppg-2025-inteleksi-md.webp",
+        "type": "file",
+        "md5": "3aaae5f5f1b9b073c11e8a39b61bf3b7"
+    },
+    {
+        "path": "/media/posts/22/responsive/soal-try-out-ppg-2025-inteleksi-sm.webp",
+        "type": "file",
+        "md5": "3aaae5f5f1b9b073c11e8a39b61bf3b7"
+    },
+    {
+        "path": "/media/posts/22/responsive/soal-try-out-ppg-2025-inteleksi-xl.webp",
+        "type": "file",
+        "md5": "3aaae5f5f1b9b073c11e8a39b61bf3b7"
+    },
+    {
+        "path": "/media/posts/22/responsive/soal-try-out-ppg-2025-inteleksi-xs.webp",
+        "type": "file",
+        "md5": "7b67ba1ef1282d9239c67522aa4ad129"
+    },
+    {
+        "path": "/media/posts/22/soal-try-out-ppg-2025-inteleksi.png",
+        "type": "file",
+        "md5": "17a84b7ad88ab768beef62c8753648eb"
+    },
+    {
+        "path": "media/posts/23",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/23/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/23/responsive/soal-try-out-ppg-2025-inteleksi-md.webp",
+        "type": "file",
+        "md5": "3aaae5f5f1b9b073c11e8a39b61bf3b7"
+    },
+    {
+        "path": "/media/posts/23/responsive/soal-try-out-ppg-2025-inteleksi-sm.webp",
+        "type": "file",
+        "md5": "3aaae5f5f1b9b073c11e8a39b61bf3b7"
+    },
+    {
+        "path": "/media/posts/23/responsive/soal-try-out-ppg-2025-inteleksi-xl.webp",
+        "type": "file",
+        "md5": "3aaae5f5f1b9b073c11e8a39b61bf3b7"
+    },
+    {
+        "path": "/media/posts/23/responsive/soal-try-out-ppg-2025-inteleksi-xs.webp",
+        "type": "file",
+        "md5": "7b67ba1ef1282d9239c67522aa4ad129"
+    },
+    {
+        "path": "/media/posts/23/soal-try-out-ppg-2025-inteleksi.png",
+        "type": "file",
+        "md5": "17a84b7ad88ab768beef62c8753648eb"
+    },
+    {
+        "path": "media/posts/24",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/24/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/24/responsive/soal-modul-ppg-inteleksi-md.webp",
+        "type": "file",
+        "md5": "d4963dca452c961f13305ae7ddf12b20"
+    },
+    {
+        "path": "/media/posts/24/responsive/soal-modul-ppg-inteleksi-sm.webp",
+        "type": "file",
+        "md5": "d4963dca452c961f13305ae7ddf12b20"
+    },
+    {
+        "path": "/media/posts/24/responsive/soal-modul-ppg-inteleksi-xl.webp",
+        "type": "file",
+        "md5": "d4963dca452c961f13305ae7ddf12b20"
+    },
+    {
+        "path": "/media/posts/24/responsive/soal-modul-ppg-inteleksi-xs.webp",
+        "type": "file",
+        "md5": "da6a5ec78660b9b378cab002d55cd7f7"
+    },
+    {
+        "path": "/media/posts/24/soal-modul-ppg-inteleksi.png",
+        "type": "file",
+        "md5": "5455d1d7a252415936bc9085a3b52a17"
+    },
+    {
+        "path": "media/posts/25",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/25/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/25/responsive/soal-modul-ppg-inteleksi-md.webp",
+        "type": "file",
+        "md5": "d4963dca452c961f13305ae7ddf12b20"
+    },
+    {
+        "path": "/media/posts/25/responsive/soal-modul-ppg-inteleksi-sm.webp",
+        "type": "file",
+        "md5": "d4963dca452c961f13305ae7ddf12b20"
+    },
+    {
+        "path": "/media/posts/25/responsive/soal-modul-ppg-inteleksi-xl.webp",
+        "type": "file",
+        "md5": "d4963dca452c961f13305ae7ddf12b20"
+    },
+    {
+        "path": "/media/posts/25/responsive/soal-modul-ppg-inteleksi-xs.webp",
+        "type": "file",
+        "md5": "da6a5ec78660b9b378cab002d55cd7f7"
+    },
+    {
+        "path": "/media/posts/25/soal-modul-ppg-inteleksi.png",
+        "type": "file",
+        "md5": "5455d1d7a252415936bc9085a3b52a17"
+    },
+    {
+        "path": "media/posts/26",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/26/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/26/responsive/soal-modul-ppg-inteleksi-md.webp",
+        "type": "file",
+        "md5": "d4963dca452c961f13305ae7ddf12b20"
+    },
+    {
+        "path": "/media/posts/26/responsive/soal-modul-ppg-inteleksi-sm.webp",
+        "type": "file",
+        "md5": "d4963dca452c961f13305ae7ddf12b20"
+    },
+    {
+        "path": "/media/posts/26/responsive/soal-modul-ppg-inteleksi-xl.webp",
+        "type": "file",
+        "md5": "d4963dca452c961f13305ae7ddf12b20"
+    },
+    {
+        "path": "/media/posts/26/responsive/soal-modul-ppg-inteleksi-xs.webp",
+        "type": "file",
+        "md5": "da6a5ec78660b9b378cab002d55cd7f7"
+    },
+    {
+        "path": "/media/posts/26/soal-modul-ppg-inteleksi.png",
+        "type": "file",
+        "md5": "5455d1d7a252415936bc9085a3b52a17"
+    },
+    {
+        "path": "media/posts/27",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/27/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/27/responsive/soal-modul-ppg-inteleksi-md.webp",
+        "type": "file",
+        "md5": "d4963dca452c961f13305ae7ddf12b20"
+    },
+    {
+        "path": "/media/posts/27/responsive/soal-modul-ppg-inteleksi-sm.webp",
+        "type": "file",
+        "md5": "d4963dca452c961f13305ae7ddf12b20"
+    },
+    {
+        "path": "/media/posts/27/responsive/soal-modul-ppg-inteleksi-xl.webp",
+        "type": "file",
+        "md5": "d4963dca452c961f13305ae7ddf12b20"
+    },
+    {
+        "path": "/media/posts/27/responsive/soal-modul-ppg-inteleksi-xs.webp",
+        "type": "file",
+        "md5": "da6a5ec78660b9b378cab002d55cd7f7"
+    },
+    {
+        "path": "/media/posts/27/soal-modul-ppg-inteleksi.png",
+        "type": "file",
+        "md5": "5455d1d7a252415936bc9085a3b52a17"
+    },
+    {
+        "path": "media/posts/28",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/28/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/28/responsive/soal-modul-ppg-inteleksi-md.webp",
+        "type": "file",
+        "md5": "d4963dca452c961f13305ae7ddf12b20"
+    },
+    {
+        "path": "/media/posts/28/responsive/soal-modul-ppg-inteleksi-sm.webp",
+        "type": "file",
+        "md5": "d4963dca452c961f13305ae7ddf12b20"
+    },
+    {
+        "path": "/media/posts/28/responsive/soal-modul-ppg-inteleksi-xl.webp",
+        "type": "file",
+        "md5": "d4963dca452c961f13305ae7ddf12b20"
+    },
+    {
+        "path": "/media/posts/28/responsive/soal-modul-ppg-inteleksi-xs.webp",
+        "type": "file",
+        "md5": "da6a5ec78660b9b378cab002d55cd7f7"
+    },
+    {
+        "path": "/media/posts/28/soal-modul-ppg-inteleksi.png",
+        "type": "file",
+        "md5": "5455d1d7a252415936bc9085a3b52a17"
+    },
+    {
+        "path": "media/posts/29",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/29/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/29/responsive/soal-modul-ppg-inteleksi-md.webp",
+        "type": "file",
+        "md5": "d4963dca452c961f13305ae7ddf12b20"
+    },
+    {
+        "path": "/media/posts/29/responsive/soal-modul-ppg-inteleksi-sm.webp",
+        "type": "file",
+        "md5": "d4963dca452c961f13305ae7ddf12b20"
+    },
+    {
+        "path": "/media/posts/29/responsive/soal-modul-ppg-inteleksi-xl.webp",
+        "type": "file",
+        "md5": "d4963dca452c961f13305ae7ddf12b20"
+    },
+    {
+        "path": "/media/posts/29/responsive/soal-modul-ppg-inteleksi-xs.webp",
+        "type": "file",
+        "md5": "da6a5ec78660b9b378cab002d55cd7f7"
+    },
+    {
+        "path": "/media/posts/29/soal-modul-ppg-inteleksi.png",
+        "type": "file",
+        "md5": "5455d1d7a252415936bc9085a3b52a17"
+    },
+    {
+        "path": "media/posts/30",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/30/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/30/responsive/soal-akhir-modul-ppg-inteleksi-md.webp",
+        "type": "file",
+        "md5": "b0756153f1e34d41b9669f8a79713187"
+    },
+    {
+        "path": "/media/posts/30/responsive/soal-akhir-modul-ppg-inteleksi-sm.webp",
+        "type": "file",
+        "md5": "b0756153f1e34d41b9669f8a79713187"
+    },
+    {
+        "path": "/media/posts/30/responsive/soal-akhir-modul-ppg-inteleksi-xl.webp",
+        "type": "file",
+        "md5": "b0756153f1e34d41b9669f8a79713187"
+    },
+    {
+        "path": "/media/posts/30/responsive/soal-akhir-modul-ppg-inteleksi-xs.webp",
+        "type": "file",
+        "md5": "adbc1ee0004367e32a170130237a9adc"
+    },
+    {
+        "path": "/media/posts/30/soal-akhir-modul-ppg-inteleksi.png",
+        "type": "file",
+        "md5": "52d9a7cb12852c1b597ed4ce6e0ccf0e"
+    },
+    {
+        "path": "media/posts/31",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/31/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/31/responsive/soal-akhir-modul-ppg-inteleksi-md.webp",
+        "type": "file",
+        "md5": "b0756153f1e34d41b9669f8a79713187"
+    },
+    {
+        "path": "/media/posts/31/responsive/soal-akhir-modul-ppg-inteleksi-sm.webp",
+        "type": "file",
+        "md5": "b0756153f1e34d41b9669f8a79713187"
+    },
+    {
+        "path": "/media/posts/31/responsive/soal-akhir-modul-ppg-inteleksi-xl.webp",
+        "type": "file",
+        "md5": "b0756153f1e34d41b9669f8a79713187"
+    },
+    {
+        "path": "/media/posts/31/responsive/soal-akhir-modul-ppg-inteleksi-xs.webp",
+        "type": "file",
+        "md5": "adbc1ee0004367e32a170130237a9adc"
+    },
+    {
+        "path": "/media/posts/31/soal-akhir-modul-ppg-inteleksi.png",
+        "type": "file",
+        "md5": "52d9a7cb12852c1b597ed4ce6e0ccf0e"
+    },
+    {
+        "path": "media/posts/32",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/32/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/32/responsive/soal-akhir-modul-ppg-inteleksi-md.webp",
+        "type": "file",
+        "md5": "b0756153f1e34d41b9669f8a79713187"
+    },
+    {
+        "path": "/media/posts/32/responsive/soal-akhir-modul-ppg-inteleksi-sm.webp",
+        "type": "file",
+        "md5": "b0756153f1e34d41b9669f8a79713187"
+    },
+    {
+        "path": "/media/posts/32/responsive/soal-akhir-modul-ppg-inteleksi-xl.webp",
+        "type": "file",
+        "md5": "b0756153f1e34d41b9669f8a79713187"
+    },
+    {
+        "path": "/media/posts/32/responsive/soal-akhir-modul-ppg-inteleksi-xs.webp",
+        "type": "file",
+        "md5": "adbc1ee0004367e32a170130237a9adc"
+    },
+    {
+        "path": "/media/posts/32/soal-akhir-modul-ppg-inteleksi.png",
+        "type": "file",
+        "md5": "52d9a7cb12852c1b597ed4ce6e0ccf0e"
+    },
+    {
+        "path": "media/posts/33",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/33/plug-and-play-inteleksi.png",
+        "type": "file",
+        "md5": "b885ba9c9a7f2e16220688e6f41fded7"
+    },
+    {
+        "path": "media/posts/33/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/33/responsive/plug-and-play-inteleksi-md.webp",
+        "type": "file",
+        "md5": "8d7ad9c5424df1e842542c35669d0469"
+    },
+    {
+        "path": "/media/posts/33/responsive/plug-and-play-inteleksi-sm.webp",
+        "type": "file",
+        "md5": "8d7ad9c5424df1e842542c35669d0469"
+    },
+    {
+        "path": "/media/posts/33/responsive/plug-and-play-inteleksi-xl.webp",
+        "type": "file",
+        "md5": "8d7ad9c5424df1e842542c35669d0469"
+    },
+    {
+        "path": "/media/posts/33/responsive/plug-and-play-inteleksi-xs.webp",
+        "type": "file",
+        "md5": "9e44cb6bdc72fb356a56ea32a0115d6d"
+    },
+    {
+        "path": "media/posts/34",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/34/CASEL-inteleksi.png",
+        "type": "file",
+        "md5": "359df91aa04507205ecb2f45cb82849d"
+    },
+    {
+        "path": "media/posts/34/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/34/responsive/CASEL-inteleksi-md.webp",
+        "type": "file",
+        "md5": "6d7e95722d26830a4c9e438cc12c77df"
+    },
+    {
+        "path": "/media/posts/34/responsive/CASEL-inteleksi-sm.webp",
+        "type": "file",
+        "md5": "6d7e95722d26830a4c9e438cc12c77df"
+    },
+    {
+        "path": "/media/posts/34/responsive/CASEL-inteleksi-xl.webp",
+        "type": "file",
+        "md5": "6d7e95722d26830a4c9e438cc12c77df"
+    },
+    {
+        "path": "/media/posts/34/responsive/CASEL-inteleksi-xs.webp",
+        "type": "file",
+        "md5": "ca459c39dfdd9796404739446b3259b3"
+    },
+    {
+        "path": "media/posts/35",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/35/experiental-learning-inteleksi.png",
+        "type": "file",
+        "md5": "52e040e162ad4aff656d4295b29bdcbe"
+    },
+    {
+        "path": "media/posts/35/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/35/responsive/experiental-learning-inteleksi-md.webp",
+        "type": "file",
+        "md5": "feb8304c792f448c5479a9af2e5a1cb7"
+    },
+    {
+        "path": "/media/posts/35/responsive/experiental-learning-inteleksi-sm.webp",
+        "type": "file",
+        "md5": "feb8304c792f448c5479a9af2e5a1cb7"
+    },
+    {
+        "path": "/media/posts/35/responsive/experiental-learning-inteleksi-xl.webp",
+        "type": "file",
+        "md5": "feb8304c792f448c5479a9af2e5a1cb7"
+    },
+    {
+        "path": "/media/posts/35/responsive/experiental-learning-inteleksi-xs.webp",
+        "type": "file",
+        "md5": "e04db8fda7182c6ec88b4d1002adf298"
+    },
+    {
+        "path": "media/posts/36",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/36/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/36/responsive/School-Well-being-inteleksi-md.webp",
+        "type": "file",
+        "md5": "f602b967cdb170f94dbceaa48572760a"
+    },
+    {
+        "path": "/media/posts/36/responsive/School-Well-being-inteleksi-sm.webp",
+        "type": "file",
+        "md5": "f602b967cdb170f94dbceaa48572760a"
+    },
+    {
+        "path": "/media/posts/36/responsive/School-Well-being-inteleksi-xl.webp",
+        "type": "file",
+        "md5": "f602b967cdb170f94dbceaa48572760a"
+    },
+    {
+        "path": "/media/posts/36/responsive/School-Well-being-inteleksi-xs.webp",
+        "type": "file",
+        "md5": "1a1860762df63c02766866f5351ba1d7"
+    },
+    {
+        "path": "/media/posts/36/School-Well-being-inteleksi.png",
+        "type": "file",
+        "md5": "073dc036f3f421f699cd48c56c843270"
+    },
+    {
+        "path": "media/posts/37",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/37/Peran-Guru-Sebagai-Teladan-inteleksi.png",
+        "type": "file",
+        "md5": "de0a9f73e28a900b3a435dd8c4a1a65f"
+    },
+    {
+        "path": "media/posts/37/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/37/responsive/Peran-Guru-Sebagai-Teladan-inteleksi-md.webp",
+        "type": "file",
+        "md5": "1d8da2d391b4ac58b2419edc6dec88d2"
+    },
+    {
+        "path": "/media/posts/37/responsive/Peran-Guru-Sebagai-Teladan-inteleksi-sm.webp",
+        "type": "file",
+        "md5": "1d8da2d391b4ac58b2419edc6dec88d2"
+    },
+    {
+        "path": "/media/posts/37/responsive/Peran-Guru-Sebagai-Teladan-inteleksi-xl.webp",
+        "type": "file",
+        "md5": "1d8da2d391b4ac58b2419edc6dec88d2"
+    },
+    {
+        "path": "/media/posts/37/responsive/Peran-Guru-Sebagai-Teladan-inteleksi-xs.webp",
+        "type": "file",
+        "md5": "f55b83efad0dbfb59557d0a33b964145"
+    },
+    {
+        "path": "media/posts/38",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/38/Filsafat-Pancasila-dan-Pemikiran-Ki-Hadjar-Dewantara-sebagai-Landasan-Pendidikan-Nasional-inteleksi.png",
+        "type": "file",
+        "md5": "d3090f70ca774db2466e2d5d059998bb"
+    },
+    {
+        "path": "media/posts/38/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/38/responsive/Filsafat-Pancasila-dan-Pemikiran-Ki-Hadjar-Dewantara-sebagai-Landasan-Pendidikan-Nasional-inteleksi-md.webp",
+        "type": "file",
+        "md5": "d647ca6e43a80504fdb7a8b34bc10c4a"
+    },
+    {
+        "path": "/media/posts/38/responsive/Filsafat-Pancasila-dan-Pemikiran-Ki-Hadjar-Dewantara-sebagai-Landasan-Pendidikan-Nasional-inteleksi-sm.webp",
+        "type": "file",
+        "md5": "d647ca6e43a80504fdb7a8b34bc10c4a"
+    },
+    {
+        "path": "/media/posts/38/responsive/Filsafat-Pancasila-dan-Pemikiran-Ki-Hadjar-Dewantara-sebagai-Landasan-Pendidikan-Nasional-inteleksi-xl.webp",
+        "type": "file",
+        "md5": "d647ca6e43a80504fdb7a8b34bc10c4a"
+    },
+    {
+        "path": "/media/posts/38/responsive/Filsafat-Pancasila-dan-Pemikiran-Ki-Hadjar-Dewantara-sebagai-Landasan-Pendidikan-Nasional-inteleksi-xs.webp",
+        "type": "file",
+        "md5": "d62e495bad06501a0dbe5afd5b1f1cf4"
+    },
+    {
+        "path": "media/posts/39",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/39/pendidikan-nilai-inteleksi.png",
+        "type": "file",
+        "md5": "19fd7579d13c0b0151b3d0ce457294f4"
+    },
+    {
+        "path": "media/posts/39/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/39/responsive/pendidikan-nilai-inteleksi-md.webp",
+        "type": "file",
+        "md5": "aa71418634d801ce6bbd6822e780b8dc"
+    },
+    {
+        "path": "/media/posts/39/responsive/pendidikan-nilai-inteleksi-sm.webp",
+        "type": "file",
+        "md5": "aa71418634d801ce6bbd6822e780b8dc"
+    },
+    {
+        "path": "/media/posts/39/responsive/pendidikan-nilai-inteleksi-xl.webp",
+        "type": "file",
+        "md5": "aa71418634d801ce6bbd6822e780b8dc"
+    },
+    {
+        "path": "/media/posts/39/responsive/pendidikan-nilai-inteleksi-xs.webp",
+        "type": "file",
+        "md5": "007f15d6255ad9b3f4aaa1113152e17a"
+    },
+    {
+        "path": "media/posts/40",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/40/11-kode-etik-guru-inteleksi.png",
+        "type": "file",
+        "md5": "b2ae2bab26c0f524836849d3e817a5c2"
+    },
+    {
+        "path": "media/posts/40/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/40/responsive/11-kode-etik-guru-inteleksi-md.webp",
+        "type": "file",
+        "md5": "c901a2ae8829c6e1dde78bf4e63b399e"
+    },
+    {
+        "path": "/media/posts/40/responsive/11-kode-etik-guru-inteleksi-sm.webp",
+        "type": "file",
+        "md5": "c901a2ae8829c6e1dde78bf4e63b399e"
+    },
+    {
+        "path": "/media/posts/40/responsive/11-kode-etik-guru-inteleksi-xl.webp",
+        "type": "file",
+        "md5": "c901a2ae8829c6e1dde78bf4e63b399e"
+    },
+    {
+        "path": "/media/posts/40/responsive/11-kode-etik-guru-inteleksi-xs.webp",
+        "type": "file",
+        "md5": "860f37a4adfca5057daf9f7538e0cc00"
+    },
+    {
+        "path": "media/posts/41",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/41/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/41/responsive/UbD-inteleksi-2-md.webp",
+        "type": "file",
+        "md5": "abb133b2ff97af41a3f21df44bcad87b"
+    },
+    {
+        "path": "/media/posts/41/responsive/UbD-inteleksi-2-sm.webp",
+        "type": "file",
+        "md5": "abb133b2ff97af41a3f21df44bcad87b"
+    },
+    {
+        "path": "/media/posts/41/responsive/UbD-inteleksi-2-xl.webp",
+        "type": "file",
+        "md5": "abb133b2ff97af41a3f21df44bcad87b"
+    },
+    {
+        "path": "/media/posts/41/responsive/UbD-inteleksi-2-xs.webp",
+        "type": "file",
+        "md5": "5f3ebce74b4dd1f1d490c0ba7d5466da"
+    },
+    {
+        "path": "/media/posts/41/UbD-inteleksi-2.png",
+        "type": "file",
+        "md5": "99b483cceb47b3cc1e83135a25c6e621"
+    },
+    {
+        "path": "media/posts/42",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/42/cache-inteleksi.png",
+        "type": "file",
+        "md5": "3827f5d34702d31a3e4cbda9fe47da63"
+    },
+    {
+        "path": "media/posts/42/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/42/responsive/cache-inteleksi-md.webp",
+        "type": "file",
+        "md5": "0c9b9b9c57dd43247c69ad139a2e3f04"
+    },
+    {
+        "path": "/media/posts/42/responsive/cache-inteleksi-sm.webp",
+        "type": "file",
+        "md5": "0c9b9b9c57dd43247c69ad139a2e3f04"
+    },
+    {
+        "path": "/media/posts/42/responsive/cache-inteleksi-xl.webp",
+        "type": "file",
+        "md5": "0c9b9b9c57dd43247c69ad139a2e3f04"
+    },
+    {
+        "path": "/media/posts/42/responsive/cache-inteleksi-xs.webp",
+        "type": "file",
+        "md5": "f8e42b2821725daf0e790c7a4e5ed80d"
+    },
+    {
+        "path": "media/posts/43",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/43/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/43/responsive/studi-kasus-PPG-inteleksi-md.webp",
+        "type": "file",
+        "md5": "850f31abba6e27ff9b83eeb4228566a7"
+    },
+    {
+        "path": "/media/posts/43/responsive/studi-kasus-PPG-inteleksi-sm.webp",
+        "type": "file",
+        "md5": "850f31abba6e27ff9b83eeb4228566a7"
+    },
+    {
+        "path": "/media/posts/43/responsive/studi-kasus-PPG-inteleksi-xl.webp",
+        "type": "file",
+        "md5": "850f31abba6e27ff9b83eeb4228566a7"
+    },
+    {
+        "path": "/media/posts/43/responsive/studi-kasus-PPG-inteleksi-xs.webp",
+        "type": "file",
+        "md5": "0eefe0bf72c167af22878d8febf38b05"
+    },
+    {
+        "path": "/media/posts/43/studi-kasus-PPG-inteleksi.png",
+        "type": "file",
+        "md5": "f02ffad4d9d816a646ba1d8f6c4f937a"
+    },
+    {
+        "path": "media/posts/44",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/44/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/44/responsive/teknik-menggambar-model-inteleksi-md.webp",
+        "type": "file",
+        "md5": "2c7db650c607726ecc8cf26a8b04a759"
+    },
+    {
+        "path": "/media/posts/44/responsive/teknik-menggambar-model-inteleksi-sm.webp",
+        "type": "file",
+        "md5": "2c7db650c607726ecc8cf26a8b04a759"
+    },
+    {
+        "path": "/media/posts/44/responsive/teknik-menggambar-model-inteleksi-xl.webp",
+        "type": "file",
+        "md5": "2c7db650c607726ecc8cf26a8b04a759"
+    },
+    {
+        "path": "/media/posts/44/responsive/teknik-menggambar-model-inteleksi-xs.webp",
+        "type": "file",
+        "md5": "d6565f41945f098d105dbd308a064aec"
+    },
+    {
+        "path": "/media/posts/44/teknik-menggambar-model-inteleksi.png",
+        "type": "file",
+        "md5": "e535d935ca2e3b41f1429a46dd120a4c"
+    },
+    {
+        "path": "media/posts/45",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/45/pinterest-inteleksi.png",
+        "type": "file",
+        "md5": "3a7fdcad674cd77a9d02b03cff6aba2b"
+    },
+    {
+        "path": "media/posts/45/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/45/responsive/pinterest-inteleksi-md.webp",
+        "type": "file",
+        "md5": "94acf76cf797387432da3136fbc622af"
+    },
+    {
+        "path": "/media/posts/45/responsive/pinterest-inteleksi-sm.webp",
+        "type": "file",
+        "md5": "94acf76cf797387432da3136fbc622af"
+    },
+    {
+        "path": "/media/posts/45/responsive/pinterest-inteleksi-xl.webp",
+        "type": "file",
+        "md5": "94acf76cf797387432da3136fbc622af"
+    },
+    {
+        "path": "/media/posts/45/responsive/pinterest-inteleksi-xs.webp",
+        "type": "file",
+        "md5": "784f545d8e309c6620786b54e85edd63"
+    },
+    {
+        "path": "media/posts/48",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/48/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/48/responsive/status-page-uptime-inteleksi-md.webp",
+        "type": "file",
+        "md5": "420f084db0242deae936abaa9032f6fa"
+    },
+    {
+        "path": "/media/posts/48/responsive/status-page-uptime-inteleksi-sm.webp",
+        "type": "file",
+        "md5": "420f084db0242deae936abaa9032f6fa"
+    },
+    {
+        "path": "/media/posts/48/responsive/status-page-uptime-inteleksi-xl.webp",
+        "type": "file",
+        "md5": "420f084db0242deae936abaa9032f6fa"
+    },
+    {
+        "path": "/media/posts/48/responsive/status-page-uptime-inteleksi-xs.webp",
+        "type": "file",
+        "md5": "d375036e59ff7d224fcb4f4e666c026b"
+    },
+    {
+        "path": "/media/posts/48/status-page-uptime-inteleksi.png",
+        "type": "file",
+        "md5": "f1d3d5f032df326d2101fb0645a48f02"
+    },
+    {
+        "path": "media/posts/5",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/5/pkn-inteleksi-2.png",
+        "type": "file",
+        "md5": "2cb1ef3695a55b7b7132aebae6b4bfa9"
+    },
+    {
+        "path": "media/posts/5/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/5/responsive/pkn-inteleksi-2-md.webp",
+        "type": "file",
+        "md5": "ddd224332fc18fe06e76a4c50d78d6de"
+    },
+    {
+        "path": "/media/posts/5/responsive/pkn-inteleksi-2-sm.webp",
+        "type": "file",
+        "md5": "ddd224332fc18fe06e76a4c50d78d6de"
+    },
+    {
+        "path": "/media/posts/5/responsive/pkn-inteleksi-2-xl.webp",
+        "type": "file",
+        "md5": "ddd224332fc18fe06e76a4c50d78d6de"
+    },
+    {
+        "path": "/media/posts/5/responsive/pkn-inteleksi-2-xs.webp",
+        "type": "file",
+        "md5": "692ad963682bd0de7774ef5de9e3ea3f"
+    },
+    {
+        "path": "media/posts/50",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/50/juknis-BOS-2025-inteleksi.png",
+        "type": "file",
+        "md5": "988f75f9b7ada7035319b54a0aa26ec9"
+    },
+    {
+        "path": "media/posts/50/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/50/responsive/juknis-BOS-2025-inteleksi-md.webp",
+        "type": "file",
+        "md5": "4b0b1a14b098adb1dff17a5c18144bad"
+    },
+    {
+        "path": "/media/posts/50/responsive/juknis-BOS-2025-inteleksi-sm.webp",
+        "type": "file",
+        "md5": "4b0b1a14b098adb1dff17a5c18144bad"
+    },
+    {
+        "path": "/media/posts/50/responsive/juknis-BOS-2025-inteleksi-xl.webp",
+        "type": "file",
+        "md5": "4b0b1a14b098adb1dff17a5c18144bad"
+    },
+    {
+        "path": "/media/posts/50/responsive/juknis-BOS-2025-inteleksi-xs.webp",
+        "type": "file",
+        "md5": "eb83f07699db4bcfed0f09e5b8dec055"
+    },
+    {
+        "path": "media/posts/51",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/51/email-kustom-domain-inteleksi..png",
+        "type": "file",
+        "md5": "1795cb179359ffd447b1e9428e2b8122"
+    },
+    {
+        "path": "media/posts/51/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/51/responsive/email-kustom-domain-inteleksi.-md.webp",
+        "type": "file",
+        "md5": "49d2cb81cc7aafe3eafda6e15edf1e05"
+    },
+    {
+        "path": "/media/posts/51/responsive/email-kustom-domain-inteleksi.-sm.webp",
+        "type": "file",
+        "md5": "49d2cb81cc7aafe3eafda6e15edf1e05"
+    },
+    {
+        "path": "/media/posts/51/responsive/email-kustom-domain-inteleksi.-xl.webp",
+        "type": "file",
+        "md5": "49d2cb81cc7aafe3eafda6e15edf1e05"
+    },
+    {
+        "path": "/media/posts/51/responsive/email-kustom-domain-inteleksi.-xs.webp",
+        "type": "file",
+        "md5": "7aa37e19aa274f0c4743fa9352837679"
+    },
+    {
+        "path": "media/posts/53",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/53/kalimantan-selatan-inteleksi.png",
+        "type": "file",
+        "md5": "0c25d6a104409f72ac5f88f517d0b637"
+    },
+    {
+        "path": "media/posts/53/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/53/responsive/kalimantan-selatan-inteleksi-md.webp",
+        "type": "file",
+        "md5": "df8b103aa00d0b8c5d2fae9a153e43b9"
+    },
+    {
+        "path": "/media/posts/53/responsive/kalimantan-selatan-inteleksi-sm.webp",
+        "type": "file",
+        "md5": "df8b103aa00d0b8c5d2fae9a153e43b9"
+    },
+    {
+        "path": "/media/posts/53/responsive/kalimantan-selatan-inteleksi-xl.webp",
+        "type": "file",
+        "md5": "df8b103aa00d0b8c5d2fae9a153e43b9"
+    },
+    {
+        "path": "/media/posts/53/responsive/kalimantan-selatan-inteleksi-xs.webp",
+        "type": "file",
+        "md5": "547a63c9f32dfa70a96281cc509b2b72"
+    },
+    {
+        "path": "media/posts/55",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/55/pantun-banjar-inteleksi.png",
+        "type": "file",
+        "md5": "220a166095650d716c18beecfd75db31"
+    },
+    {
+        "path": "media/posts/55/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/55/responsive/pantun-banjar-inteleksi-md.webp",
+        "type": "file",
+        "md5": "6f37351f934a03ec86a517752b7d014f"
+    },
+    {
+        "path": "/media/posts/55/responsive/pantun-banjar-inteleksi-sm.webp",
+        "type": "file",
+        "md5": "6f37351f934a03ec86a517752b7d014f"
+    },
+    {
+        "path": "/media/posts/55/responsive/pantun-banjar-inteleksi-xl.webp",
+        "type": "file",
+        "md5": "6f37351f934a03ec86a517752b7d014f"
+    },
+    {
+        "path": "/media/posts/55/responsive/pantun-banjar-inteleksi-xs.webp",
+        "type": "file",
+        "md5": "5ee39e725ea5b4f5aead23e2045b163b"
+    },
+    {
+        "path": "media/posts/56",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/56/pantun-banjar-inteleksi.png",
+        "type": "file",
+        "md5": "220a166095650d716c18beecfd75db31"
+    },
+    {
+        "path": "media/posts/56/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/56/responsive/pantun-banjar-inteleksi-md.webp",
+        "type": "file",
+        "md5": "6f37351f934a03ec86a517752b7d014f"
+    },
+    {
+        "path": "/media/posts/56/responsive/pantun-banjar-inteleksi-sm.webp",
+        "type": "file",
+        "md5": "6f37351f934a03ec86a517752b7d014f"
+    },
+    {
+        "path": "/media/posts/56/responsive/pantun-banjar-inteleksi-xl.webp",
+        "type": "file",
+        "md5": "6f37351f934a03ec86a517752b7d014f"
+    },
+    {
+        "path": "/media/posts/56/responsive/pantun-banjar-inteleksi-xs.webp",
+        "type": "file",
+        "md5": "5ee39e725ea5b4f5aead23e2045b163b"
+    },
+    {
+        "path": "media/posts/6",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/6/permen-inteleksi.png",
+        "type": "file",
+        "md5": "284eb12985eb4b1c56a05f40befd64e7"
+    },
+    {
+        "path": "media/posts/6/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/6/responsive/permen-inteleksi-md.webp",
+        "type": "file",
+        "md5": "b45e122b0128c95dc045e1a7fd34936f"
+    },
+    {
+        "path": "/media/posts/6/responsive/permen-inteleksi-sm.webp",
+        "type": "file",
+        "md5": "b45e122b0128c95dc045e1a7fd34936f"
+    },
+    {
+        "path": "/media/posts/6/responsive/permen-inteleksi-xl.webp",
+        "type": "file",
+        "md5": "b45e122b0128c95dc045e1a7fd34936f"
+    },
+    {
+        "path": "/media/posts/6/responsive/permen-inteleksi-xs.webp",
+        "type": "file",
+        "md5": "2a1cde08896dd3d3d13268acfe65d7cc"
+    },
+    {
+        "path": "media/posts/8",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/8/model-pembelajaran-inteleksi-2.png",
+        "type": "file",
+        "md5": "30e401909585143e0ac42bef260394ab"
+    },
+    {
+        "path": "media/posts/8/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/8/responsive/model-pembelajaran-inteleksi-2-md.webp",
+        "type": "file",
+        "md5": "0cf248dc925badf94f7cfb84307cde50"
+    },
+    {
+        "path": "/media/posts/8/responsive/model-pembelajaran-inteleksi-2-sm.webp",
+        "type": "file",
+        "md5": "0cf248dc925badf94f7cfb84307cde50"
+    },
+    {
+        "path": "/media/posts/8/responsive/model-pembelajaran-inteleksi-2-xl.webp",
+        "type": "file",
+        "md5": "0cf248dc925badf94f7cfb84307cde50"
+    },
+    {
+        "path": "/media/posts/8/responsive/model-pembelajaran-inteleksi-2-xs.webp",
+        "type": "file",
+        "md5": "9bd8ce540d0b8e852541c7482aed4019"
+    },
+    {
+        "path": "media/posts/9",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/9/media-pembelajaran-inteleksi.png",
+        "type": "file",
+        "md5": "936c3ab11f36b1f6a08f1bfa0db2edb6"
+    },
+    {
+        "path": "media/posts/9/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/9/responsive/media-pembelajaran-inteleksi-md.webp",
+        "type": "file",
+        "md5": "9a7fc680d4eb490e34e08a4693732b13"
+    },
+    {
+        "path": "/media/posts/9/responsive/media-pembelajaran-inteleksi-sm.webp",
+        "type": "file",
+        "md5": "9a7fc680d4eb490e34e08a4693732b13"
+    },
+    {
+        "path": "/media/posts/9/responsive/media-pembelajaran-inteleksi-xl.webp",
+        "type": "file",
+        "md5": "9a7fc680d4eb490e34e08a4693732b13"
+    },
+    {
+        "path": "/media/posts/9/responsive/media-pembelajaran-inteleksi-xs.webp",
+        "type": "file",
+        "md5": "891bb578f0173d451b000b069e24c389"
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/deddy.png",
+        "type": "file",
+        "md5": "c67cefbb215de300dc74be9e516cfc74"
+    },
+    {
+        "path": "/media/website/favicon-2.ico",
+        "type": "file",
+        "md5": "aa392c13feb886c01bb85fba6b10effc"
+    },
+    {
+        "path": "/media/website/inteleksi-fallback.png",
+        "type": "file",
+        "md5": "c6e05fd42db51de1451faba0f4d2909b"
+    },
+    {
+        "path": "/media/website/inteleksi-id-logo.png",
+        "type": "file",
+        "md5": "e559ba5addb5acca5645c29831e2af4f"
+    },
+    {
+        "path": "/media/website/nadia.png",
+        "type": "file",
+        "md5": "27b1ef606fff6376ab059b6556d950c6"
+    },
+    {
+        "path": "media/website/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/responsive/deddy-xs.webp",
+        "type": "file",
+        "md5": "82385fab3990b3d1e197ce6aa8d6a087"
+    },
+    {
+        "path": "/media/website/responsive/inteleksi-fallback-xs.webp",
+        "type": "file",
+        "md5": "1bd90ad2371332e9eec028548619b5e0"
+    },
+    {
+        "path": "/media/website/responsive/inteleksi-id-logo-xs.webp",
+        "type": "file",
+        "md5": "ad6c6cb0132dc8178693558bbac98067"
+    },
+    {
+        "path": "/media/website/responsive/nadia-xs.webp",
+        "type": "file",
+        "md5": "a5854f12dace04b43776042689d86e84"
+    },
+    {
+        "path": "/media/website/responsive/vina-xs.webp",
+        "type": "file",
+        "md5": "9af35f5c77b7635ba3a5cee8979818f6"
+    },
+    {
+        "path": "/media/website/vina.png",
+        "type": "file",
+        "md5": "6ed09df3bd83d5a500075398b86165a6"
+    },
+    {
+        "path": "penulis",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "penulis/deddy",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/penulis/deddy/index.html",
+        "type": "file",
+        "md5": "caecb317266fbaf985dcb9c9c2afe7a3"
+    },
+    {
+        "path": "penulis/nadia",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/penulis/nadia/index.html",
+        "type": "file",
+        "md5": "9790d7a697477d2d09fde8e5c8089d21"
+    },
+    {
+        "path": "penulis/vina",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/penulis/vina/index.html",
+        "type": "file",
+        "md5": "b85f849b0e4e08e1bb3364813b71728c"
+    },
+    {
+        "path": "penulis/vina/page",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "penulis/vina/page/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/penulis/vina/page/2/index.html",
+        "type": "file",
+        "md5": "403bd3a519de0e070d96143e29cbf2c2"
+    },
+    {
+        "path": "penulis/vina/page/3",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/penulis/vina/page/3/index.html",
+        "type": "file",
+        "md5": "e16f1752c89c7892d301aca3ad337fbe"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "d73bc9e5135d103c9dc62975b0b3b9a5"
+    },
+    {
+        "path": "search.html",
+        "type": "file",
+        "md5": "4dcb9bd01ac5705c74ca55475894ad21"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "9019ad0c25c1682454c5522c861d4d4b"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "tags/bahasa-banjar",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/bahasa-banjar/index.html",
+        "type": "file",
+        "md5": "35894b2801db1c97c7e5f0493861eea1"
+    },
+    {
+        "path": "tags/bahasa-indonesia",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/bahasa-indonesia/index.html",
+        "type": "file",
+        "md5": "5eb8ca5a3e46cc6f3765d554b7a900f2"
+    },
+    {
+        "path": "tags/cp-tp",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/cp-tp/index.html",
+        "type": "file",
+        "md5": "0bb6ff3e2e0a4d467ed011cbcdc95c20"
+    },
+    {
+        "path": "tags/e-mail",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/e-mail/index.html",
+        "type": "file",
+        "md5": "0b0a40803df560c340ae2af6a1fc96c6"
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "78b956a063f8de484c4b601a1afcad97"
+    },
+    {
+        "path": "tags/java-script",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/java-script/index.html",
+        "type": "file",
+        "md5": "daa09c55e57ad30931c77f78e4c21bc9"
+    },
+    {
+        "path": "tags/kelas-6",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/kelas-6/index.html",
+        "type": "file",
+        "md5": "346f637b610184f1f72b700102c9dfa6"
+    },
+    {
+        "path": "tags/materi",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/materi/index.html",
+        "type": "file",
+        "md5": "49df6e365a214a36ef8e2230d18c6498"
+    },
+    {
+        "path": "tags/materi-ppg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/materi-ppg/index.html",
+        "type": "file",
+        "md5": "5b215acdc66cad2ba1d3b974dca3dead"
+    },
+    {
+        "path": "tags/muatan-lokal",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/muatan-lokal/index.html",
+        "type": "file",
+        "md5": "87634809746cc2e3209745e3c68c26c8"
+    },
+    {
+        "path": "tags/peraturan-pemerintah",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/peraturan-pemerintah/index.html",
+        "type": "file",
+        "md5": "ace0ab6efcf4e878c968e4892e654e96"
+    },
+    {
+        "path": "tags/pkn",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/pkn/index.html",
+        "type": "file",
+        "md5": "23b187be5286394449e8cae2ac2b1e47"
+    },
+    {
+        "path": "tags/ppg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/ppg/index.html",
+        "type": "file",
+        "md5": "43ab22bf7764450f1ee62f975f77dfae"
+    },
+    {
+        "path": "tags/ppg/page",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "tags/ppg/page/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/ppg/page/2/index.html",
+        "type": "file",
+        "md5": "cac5fdb945aab1a1c089e2738a60bf23"
+    },
+    {
+        "path": "tags/ppg/page/3",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/ppg/page/3/index.html",
+        "type": "file",
+        "md5": "6a3f421940896246bc3a435a7666962b"
+    },
+    {
+        "path": "tags/semester-1",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/semester-1/index.html",
+        "type": "file",
+        "md5": "4dd5df548891e874efefd2b524fdd0c6"
+    },
+    {
+        "path": "tags/seni-budaya",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/seni-budaya/index.html",
+        "type": "file",
+        "md5": "6aa494043d55df9fc422294e7f47af95"
+    },
+    {
+        "path": "tags/soal-tryout-ppg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/soal-tryout-ppg/index.html",
+        "type": "file",
+        "md5": "9e95e05757af787a2a5f50ee12906f66"
+    },
+    {
+        "path": "tags/soal-tryout-ppg/page",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "tags/soal-tryout-ppg/page/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/soal-tryout-ppg/page/2/index.html",
+        "type": "file",
+        "md5": "3add34e5fc319f51cfb6760215a99e79"
+    },
+    {
+        "path": "tags/studi-kasus",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/studi-kasus/index.html",
+        "type": "file",
+        "md5": "80c2494901daf4b51fde381b9f62855d"
+    },
+    {
+        "path": "tags/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/website/index.html",
+        "type": "file",
+        "md5": "787d1f0e5aa16ef5a339894b19f84fc4"
+    },
+    {
+        "path": "_headers",
+        "type": "file",
+        "md5": "28a1edb3934d82ad5e4364361bb854ad"
+    }
+]
